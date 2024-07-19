@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="OSM gpx_dump.py">
+  <trk>
+    <name>Track 0</name>
+    <number>0</number>
+    <trkseg>
+      <trkpt lat="23.1948830" lon="-106.4253000"/>
+      <trkpt lat="23.1954160" lon="-106.4254160">
+        <ele>4.00</ele>
+      </trkpt>
+      <trkpt lat="23.1950330" lon="-106.4249330">
+        <ele>4.00</ele>
+      </trkpt>
+      <trkpt lat="23.1949660" lon="-106.4242160">
+        <ele>20.00</ele>
+      </trkpt>
+      <trkpt lat="23.1951160" lon="-106.4232660">
+        <ele>12.00</ele>
+      </trkpt>
+      <trkpt lat="23.1953500" lon="-106.4227500">
+        <ele>2.00</ele>
+      </trkpt>
+      <trkpt lat="23.1955830" lon="-106.4221330">
+        <ele>1.00</ele>
+      </trkpt>
+      <trkpt lat="23.1951500" lon="-106.4219000"/>
+      <trkpt lat="23.1955000" lon="-106.4215000">
+        <ele>5.00</ele>
+      </trkpt>
+      <trkpt lat="23.1958000" lon="-106.4217660">
+        <ele>5.00</ele>
+      </trkpt>
+      <trkpt lat="23.1966500" lon="-106.4224000">
+        <ele>3.00</ele>
+      </trkpt>
+      <trkpt lat="23.1975330" lon="-106.4225830">
+        <ele>14.00</ele>
+      </trkpt>
+      <trkpt lat="23.1982830" lon="-106.4228160">
+        <ele>12.00</ele>
+      </trkpt>
+      <trkpt lat="23.1986500" lon="-106.4232500">
+        <ele>5.00</ele>
+      </trkpt>
+      <trkpt lat="23.1981660" lon="-106.4234830">
+        <ele>8.00</ele>
+      </trkpt>
+      <trkpt lat="23.1978330" lon="-106.4240660">
+        <ele>25.00</ele>
+      </trkpt>
+      <trkpt lat="23.1969830" lon="-106.4250000">
+        <ele>15.00</ele>
+      </trkpt>
+      <trkpt lat="23.1965160" lon="-106.4255830">
+        <ele>18.00</ele>
+      </trkpt>
+      <trkpt lat="23.1959330" lon="-106.4254830">
+        <ele>15.00</ele>
+      </trkpt>
+      <trkpt lat="23.1949000" lon="-106.4253330">
+        <ele>21.00</ele>
+      </trkpt>
+      <trkpt lat="23.1943000" lon="-106.4244830">
+        <ele>16.00</ele>
+      </trkpt>
+      <trkpt lat="23.1954330" lon="-106.4255500">
+        <ele>17.00</ele>
+      </trkpt>
+      <trkpt lat="23.1958830" lon="-106.4252830">
+        <ele>17.00</ele>
+      </trkpt>
+      <trkpt lat="23.1968330" lon="-106.4245830">
+        <ele>15.00</ele>
+      </trkpt>
+      <trkpt lat="23.1974000" lon="-106.4245160">
+        <ele>2.00</ele>
+      </trkpt>
+      <trkpt lat="23.1978500" lon="-106.4243160"/>
+      <trkpt lat="23.1980330" lon="-106.4238830"/>
+      <trkpt lat="23.1983830" lon="-106.4234000"/>
+      <trkpt lat="23.1985830" lon="-106.4230000"/>
+      <trkpt lat="23.1986330" lon="-106.4225500">
+        <ele>2.00</ele>
+      </trkpt>
+      <trkpt lat="23.1985830" lon="-106.4221160">
+        <ele>2.00</ele>
+      </trkpt>
+      <trkpt lat="23.1989500" lon="-106.4214500">
+        <ele>22.00</ele>
+      </trkpt>
+      <trkpt lat="23.1992500" lon="-106.4204660"/>
+      <trkpt lat="23.1998000" lon="-106.4202830"/>
+      <trkpt lat="23.2003660" lon="-106.4206160"/>
+      <trkpt lat="23.2001500" lon="-106.4213830">
+        <ele>7.00</ele>
+      </trkpt>
+      <trkpt lat="23.2005660" lon="-106.4216500">
+        <ele>8.00</ele>
+      </trkpt>
+      <trkpt lat="23.2009830" lon="-106.4215660">
+        <ele>33.00</ele>
+      </trkpt>
+      <trkpt lat="23.2014500" lon="-106.4217000">
+        <ele>7.00</ele>
+      </trkpt>
+      <trkpt lat="23.2019160" lon="-106.4216000"/>
+      <trkpt lat="23.1971330" lon="-106.4242500">
+        <ele>20.00</ele>
+      </trkpt>
+      <trkpt lat="23.1960660" lon="-106.4254160">
+        <ele>20.00</ele>
+      </trkpt>
+      <trkpt lat="23.1955160" lon="-106.4254830">
+        <ele>13.00</ele>
+      </trkpt>
+      <trkpt lat="23.1948500" lon="-106.4252830">
+        <ele>8.00</ele>
+      </trkpt>
+      <trkpt lat="23.1951160" lon="-106.4249330">
+        <ele>8.00</ele>
+      </trkpt>
+      <trkpt lat="23.1947500" lon="-106.4251000">
+        <ele>8.00</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
